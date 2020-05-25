@@ -1,0 +1,45 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#search-box {
+  display: inline-flex;
+  width: 300px;
+  height: 3em;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+
+#submit-button {
+  background-color: darkblue;
+  width: 5 rem;
+  height: 3em;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+h1 {
+  color: darkcyan;
+}
+
+p {
+  padding-left: 1.5em;
+}
+
+.signature {
+  font-style: italic;
+}
+
+.block {
+  border-left: solid 4px darkslategray;
+}
+
+.answer {
+  background-color: antiquewhite;
+}
+
+#coach-answer {
+  font-weight: bold;
+}
