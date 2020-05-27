@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 * I will cover what I please
+
+* I renamed this to remove the stupid `rails` prefix.
